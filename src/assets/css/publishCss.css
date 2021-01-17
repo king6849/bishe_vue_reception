@@ -1,0 +1,13 @@
+/*水平居中*/
+.centerHorizontally{
+  margin: 0 auto;
+}
+/*不换行*/
+.noNewLine{
+  display: inline-block;
+}
+
+/*内容对齐*/
+.text-align-left{
+  text-align: left;
+}
